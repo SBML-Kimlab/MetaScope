@@ -13,3 +13,6 @@ Use MetaScope in order to
 - Build and share genome annotations
 
 - Analyze and compare multiple -omics data from two or more species
+
+
+![metascope_example](https://user-images.githubusercontent.com/42198206/200240932-a198fe7d-8d07-4e6e-ac89-df906a33e28b.PNG)
